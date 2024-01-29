@@ -1,21 +1,25 @@
 # MarMic2024 - Git, GitHub/GitLab
 
-This repository contains materials for the [MarMic](https://marmic.mpg.de/) workshop on Git, GitHub, and GitLab.
+Welcome to the [MarMic](https://marmic.mpg.de/) workshop on Git, GitHub, and GitLab. This repository contains all the materials you'll need.
 
 ## Workshop
 
-- [Script](workshop/)
-  - [Introduction](workshop/01_Introduction.md)
-  - [Understanding Version Control](workshop/02_Understanding%20Version%20Control.md)
-  - [Introduction to Git](workshop/03_Introduction%20to%20Git.md)
-  - [Git Basics](workshop/04_Git%20Basics.md)
-  - [Git Workflow](workshop/05_Git%20Workflow.md)
-  - [Git Branching and Merging](workshop/06_Git%20Branching%20and%20merging.md)
-  - [Remote Repositories](workshop/07_Remote%20Repositories.md)
-  - [Collaborative Workflows](workshop/08_Collaborative%20Workflows.md)
-  - [Advanced Topics](workshop/09_Advanced%20Topics.md)
-- [Slides](slides/)
+- [Introduction](workshop/01_Introduction.md)
+- [Understanding Version Control](workshop/02_Understanding%20Version%20Control.md)
+- [Introduction to Git](workshop/03_Introduction%20to%20Git.md)
+- [Git Basics](workshop/04_Git%20Basics.md)
+- [Git Workflow](workshop/05_Git%20Workflow.md)
+- [Git Branching and Merging](workshop/06_Git%20Branching%20and%20merging.md)
+- [Remote Repositories](workshop/07_Remote%20Repositories.md)
+- [Collaborative Workflows](workshop/08_Collaborative%20Workflows.md)
+- [Advanced Topics](workshop/09_Advanced%20Topics.md)
+
+### Additional Materials
+
+- [Workshop Slides](slides/)
 - [Exercises](exercises/)
+- [Cheat Sheet: Git](Cheat%20Sheet%20Git.md)
+- [Cheat Sheet: Terminal](Cheat%20Sheet%20Terminal.md)
 
 ## Prerequisites
 - Basic knowledge of terminal commands
