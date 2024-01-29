@@ -7,7 +7,7 @@ In Git, branching and merging are fundamental concepts that allow developers to 
 To create a new branch, use the git switch command followed by the branch name. For example:
 
 ```bash
-$ git switch -c feature-x
+$ git switch --create feature-x
 ```
 
 After creating the branch, your Git graph will look like this:
