@@ -1,7 +1,3 @@
-    - Introduce branching concepts.
-    - Explain how to create, switch, and merge branches.
-    - Discuss merge conflicts and their resolution.
-
 # Branching and Merging
 
 In Git, a branch is a separate line of development that allows you to make changes to your code without affecting the main branch. The main branch is usually called `master`, but it can also be called `main`. This allows you to experiment with new features, fix bugs, and make other changes without risking breaking the main branch.
