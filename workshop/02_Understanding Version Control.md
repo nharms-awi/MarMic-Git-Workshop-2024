@@ -1,6 +1,3 @@
-- Explain the importance of version control in software development.
-- Highlight the problems it solves.
-
 # Introduction to Version Control Systems
 
 Have you ever worked on a project and saved multiple versions of the same file, such as "document.txt", "document_v2.txt", and "document_final.txt"? Or maybe you've lost a previous version of your work and wished you could go back to it? This is where version control systems (VCS) come in.
