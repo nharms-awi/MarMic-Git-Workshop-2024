@@ -1,0 +1,2 @@
+- Briefly introduce yourself and the workshop.
+- Set expectations and goals for the two-day workshop.

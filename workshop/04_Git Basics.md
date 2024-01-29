@@ -1,0 +1,3 @@
+    - Cover Git terminology (repository, commit, branch, etc.).
+    - Explain the three main stages of Git (working directory, staging area, repository).
+    - Demonstrate basic Git commands (init, add, commit, status).
