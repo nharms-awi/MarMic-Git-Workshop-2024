@@ -1,6 +1,3 @@
-
-    - Cover more advanced Git topics, such as rebasing, cherry-picking, and submodules.
-    - Provide resources for further learning.
 # Advanced Git Concepts
 
 While the basic Git commands are essential for managing and tracking changes to a project, there are also more advanced concepts that can be useful in certain situations.
