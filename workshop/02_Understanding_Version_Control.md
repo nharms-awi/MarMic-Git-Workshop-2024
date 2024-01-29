@@ -35,13 +35,13 @@ gantt
  dateFormat YYYY-MM-DD
  
  section Document
- document.txt : done, doc1, 2023-01-10, 2023-01-14
- document-v2.txt : done, doc2, 2023-01-14, 2023-01-17
- document-v2-final-draft.txt : done, doc3, 2023-01-17, 2023-01-18
- document-v2-final-draft.txt : done, doc4, 2023-01-18, 2023-01-20
- document-final.txt : active, doc5, 2023-01-20, 2023-01-26
- document-final-fixed.txt : active, doc5, 2023-01-24, 2023-01-27
- document-FINAL-FINAL.txt : active, doc5, 2023-01-27, 2023-01-28
+ document.txt : done, doc1, 2024-01-10, 2024-01-14
+ document-v2.txt : done, doc2, 2024-01-14, 2024-01-17
+ document-v2-final-draft.txt : done, doc3, 2024-01-17, 2024-01-18
+ document-v2-final-draft.txt : done, doc4, 2024-01-18, 2024-01-20
+ document-final.txt : active, doc5, 2024-01-20, 2024-01-26
+ document-final-fixed.txt : active, doc5, 2024-01-24, 2024-01-27
+ document-FINAL-FINAL.txt : active, doc5, 2024-01-27, 2024-01-28
 ```
 
 This is where version control systems shine. They not only allow you to meticulously track changes to your files over time but also enable seamless collaboration without the confusion and chaos associated with versioning without a VCS. With a VCS, you can effortlessly discern who made specific changes and when, facilitating smooth collaboration, even when multiple contributors are working concurrently.
