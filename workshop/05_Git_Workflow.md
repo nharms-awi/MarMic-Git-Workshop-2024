@@ -4,7 +4,7 @@ In this chapter, we'll delve into the fundamental concepts of version control an
 
 Version control systems, such as Git, provide a structured approach to tracking changes in your codebase. Before we dive into the Git workflow, let's grasp some key ideas:
 
-Git operates with a local repository on your machine. You can work on it, make changes, and commit those changes. Until you use the `git push` command, all your changes are stored locally. (More on this in [Remote Repositories](07_Remote%20Repositories.md).)
+Git operates with a local repository on your machine. You can work on it, make changes, and commit those changes. Until you use the `git push` command, all your changes are stored locally. (More on this in [Remote Repositories](07_Remote_Repositories.md).)
 Now, let's explore the basic Git workflow using an example.
 
 ## An Example Workflow
