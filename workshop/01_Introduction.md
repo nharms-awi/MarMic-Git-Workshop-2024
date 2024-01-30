@@ -18,19 +18,17 @@ By the end of this workshop, you will:
 
 ### Day 1 - Introduction to Git and Basic Concepts
 
-- **(15 minutes): Welcome and [Introduction](workshop/01_Introduction.md)**
-- **(15 minutes): [Understanding Version Control](workshop/02_Understanding_Version_Control.md)**
-- **(15 minutes): [Introduction to Git](workshop/03_Introduction_to_Git.md)**
-- **(15 minutes): Break and Q&A**
-- **(30 minutes): [Git Basics](workshop/04_Git_Basics.md)**
-- **(30 minutes): [Git Workflow](workshop/05_Git_Workflow.md)**
+- **Welcome and [Introduction](workshop/01_Introduction.md)**
+- **[Understanding Version Control](workshop/02_Understanding_Version_Control.md)**
+- **[Introduction to Git](workshop/03_Introduction_to_Git.md)**
+- **[Git Basics](workshop/04_Git_Basics.md)**
+- **[Git Workflow](workshop/05_Git_Workflow.md)**
 
 ### Day 2 - Branching, Collaboration, and Advanced Topics
 
-- **(15 minutes): Recap of Day 1**
-- **(30 minutes): [Git Branching and Merging](workshop/06_Git_Branching_and_merging.md)**
-- **(15 minutes): [Remote Repositories](workshop/07_Remote_Repositories.md)**
-- **(15 minutes): Break and Q&A**
-- **(15 minutes): [Collaborative Workflows](workshop/08_Collaborative_Workflows.md)**
-- **(25 minutes): [Advanced Topics](workshop/09_Advanced_Topics.md) (time permitting)**
-- **(End of Day 2): Wrap-up and Next Steps**
+- **Recap of Day 1**
+- **[Git Branching and Merging](workshop/06_Git_Branching_and_merging.md)**
+- **[Remote Repositories](workshop/07_Remote_Repositories.md)**
+- **[Collaborative Workflows](workshop/08_Collaborative_Workflows.md)**
+- **[Advanced Topics](workshop/09_Advanced_Topics.md) (time permitting)**
+- **Wrap-up and Next Steps**
