@@ -14,7 +14,7 @@
 ## File Management
 
 - `mkdir <dir>`: Create a new directory
-- `touch <file>`: Create a new file
+- `touch <file>`: Create a new file and modify last modified time
 - `cp <from> <to>`: Copy a file or directory
 - `mv <from> <to>`: Move a file or directory
 - `rm <file|dir>`: Remove a file or directory
