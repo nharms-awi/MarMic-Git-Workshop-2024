@@ -16,7 +16,7 @@ Welcome to the [MarMic](https://marmic.mpg.de/) workshop on Git, GitHub, and Git
 
 ### Additional Materials
 
-- [Workshop Slides](slides/)
+- [Workshop Slides](slides.pdf)
 - [Exercises](exercises/)
 - [Cheat Sheet: Git](Cheat_Sheet_Git.md)
 - [Cheat Sheet: Terminal](Cheat_Sheet_Terminal.md)
